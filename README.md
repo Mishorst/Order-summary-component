@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]([https://your-solution-url.com](https://github.com/Mishorst/Order-summary-component))
+- Solution URL: [Github](https://github.com/Mishorst/Order-summary-component)
 - Live Site URL: [Site](https://order-summary-component-misho.netlify.app/)
 
 ## My process
